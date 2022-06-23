@@ -1,8 +1,8 @@
-**# regression-analysis
+# **Regression-analysis**
 
-regression - analyzes your dataset and inputs
+**regression - analyzes your dataset and inputs**
 
-정격 하중 (N) 회귀분석 모델 **
+**정격 하중 (N) 회귀분석 모델**
 
 
 
@@ -12,6 +12,6 @@ so I made it.
 
 
 
-Usage
+# Usage
 
 input rational number of Newton (N) 0 ~ 196100.
